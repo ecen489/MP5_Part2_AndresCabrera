@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MP5_Part2_AndresCabrera</string>
+    <string name="textView">Quiz App</string>
+    <string name="button">Reset</string>
+    <string name="textView2">Score: 0</string>
+    <string name="textView3">Quiz App</string>
+    <string name="textView4">Question</string>
+    <string name="button2">Submit</string>
+    <string name="editText">Enter Answer Here</string>
+</resources>
